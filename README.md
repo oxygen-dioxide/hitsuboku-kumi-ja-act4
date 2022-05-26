@@ -4,7 +4,8 @@
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4) | 
-[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-jpn-act4)
+[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-jpn-act4) | 
+[Jihulab](https://jihulab.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4)
 
 Hitsuboku Kumi (筆墨クミ) is a UTAU virtual singer voiced and developed by Cubialpha. This repo is a mirror site of Hitsuboku Kumi's Japanese VCV Act4 UTAU voicebank. No changes are made on wav files and oto.ini files.
 
